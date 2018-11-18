@@ -1,0 +1,23 @@
+{
+  "name": "can-of-soda",
+  "version": "1.0.0",
+  "description": "Play with a can of soda",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iREDMe/can-of-soda.git"
+  },
+  "keywords": [
+    "soda",
+    "can"
+  ],
+  "author": "iREDMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iREDMe/can-of-soda/issues"
+  },
+  "homepage": "https://github.com/iREDMe/can-of-soda#readme"
+}
